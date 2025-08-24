@@ -8,7 +8,7 @@
 > 🚀 **FlyCursor** 让你 Cursor Pro 试用永不断，批量注册本地账号+共享账号池，一秒换号，无限次数高级模型。
 >
 > - `Claude 4` 、`Gemini 2.5pro`、`gpt 5` 等模型需要梯子才能使用。
-> - Cursor 要求新账户绑定支付宝才能激活试用，建议激活后马上取消订阅，否则试用到期产生扣费
+> - Cursor 要求新账户绑定虚拟支付卡才能激活试用，建议激活后马上取消订阅，否则试用到期产生扣费
 > - 支持 windows、macOS ，不限制 Cursor 版本 ，可升级。（目前最新版 Cursor v1.3.9）
 > - qq交流群： [1002388537](https://qun.qq.com/universal-share/share?ac=1&authKey=ZpKpMm4QdN1I2eWzqZYinybEpN1PfyrUlmgA01ZG0mAVSUVg0fWQWngzBnl7jG79&busi_data=eyJncm91cENvZGUiOiIxMDAyMzg4NTM3IiwidG9rZW4iOiJNR0hENmlHS0xHSzdmMm0xRmZSNjJpczdJMWl5WkhrNWI0SHVQOUZhemNuSTcvN0VQNUNSZVZ4Ty9kbU1KSFBWIiwidWluIjoiMzY2Mzg1NjQyOSJ9&data=ghmRHANkTOdaEFfbxNKWtfgZ5emKN2-RQ-FKgFvWnukdfbup51jtrgQKlbPS_2O-0QHYmuRUd7her7DzYjH43A&svctype=4&tempid=h5_group_info)
 > - 使用文档： [详细文档、常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
